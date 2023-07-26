@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotAubo_i5", "D:\AuboVMWare\MoveObjectWithMouse\RobotAubo_i5.csproj", "{95218968-C1F1-4603-B4F9-9358D42C9F9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotAubo_i5", "RobotAubo_i5.csproj", "{95218968-C1F1-4603-B4F9-9358D42C9F9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
